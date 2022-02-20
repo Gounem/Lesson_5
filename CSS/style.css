@@ -1,0 +1,78 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    width: 810px;
+    margin-top: 5px;
+}
+p {
+    color: black;
+    display: inline;
+}
+.head_paragraf {
+    display: inline;
+    color: #424551;
+    word-spacing: 12px;
+}
+.logo {
+    margin-right: 8px;
+    
+}
+span {
+    color: #FF3F3A;
+    word-spacing: normal;
+}
+.title_head {
+    font-weight: 900;
+    font-size: 46px;
+    margin-top: 12px;  
+}
+.info,
+.info_2 {
+    margin-top: 26px;
+    display: inline-block;
+}
+.info_2 {
+    margin-left: 24px;
+}
+.info_paragraf {
+color: #787A80;
+}
+.info_3 {
+    display: inline-block;
+   padding-left: 396px;
+    font-weight: 900;
+    word-spacing: 12px;
+    box-sizing: border-box;
+}
+.img {
+    margin-top: 40px;
+    border-radius: 4px;
+}
+
+.title_body {
+    margin: 40px 0 0 0;
+    line-height: 30px;
+    width: 810px;
+}
+h2,
+h3 {
+font-weight: 700;
+font-size: 20px;
+}
+.title_body p {
+    display: block;
+    margin: 24px 0 0 0;
+    color: #424551;
+}
+
+ h3 {
+    margin: 48px 0 0 58px;
+}
+.decor {
+   
+    margin: 0 25px 0 -58px ;
+}
